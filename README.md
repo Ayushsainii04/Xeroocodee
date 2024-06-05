@@ -2,7 +2,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## About Project
-This link ( https://xerocodee-assignment-beta.vercel.app/ ) will forward to website landing page
+This link (  ) will forward to website landing page
 Project uses Material UI library for design, Tailwind CSS for design
 Uses Appwrite for backend, and have functionality of Google Login and GitHub Login
 

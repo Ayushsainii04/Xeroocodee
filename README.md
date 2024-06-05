@@ -1,19 +1,19 @@
 # Xeroocodee
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##About Project
+## About Project
 This link ( https://xerocodee-assignment-beta.vercel.app/ ) will forward to website landing page
 Project uses Material UI library for design, Tailwind CSS for design
 Uses Appwrite for backend, and have functionality of Google Login and GitHub Login
 
-##Features ✨
+## Features ✨
 User Registration and Login
 Google and GitHub Authentication
 Secure Handling of User Data
 Responsive UI with Material-UI
 MVC Architecture
 
-##Project Structure 📂
+## Project Structure 📂
 The project follows the MVC architecture to organize code efficiently:
 
 Models 📄

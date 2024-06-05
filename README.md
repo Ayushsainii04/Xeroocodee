@@ -7,31 +7,31 @@ Project uses Material UI library for design, Tailwind CSS for design
 Uses Appwrite for backend, and have functionality of Google Login and GitHub Login
 
 ## Features ✨
-User Registration and Login
-Google and GitHub Authentication
-Secure Handling of User Data
-Responsive UI with Material-UI
-MVC Architecture
+- User Registration and Login
+- Google and GitHub Authentication
+- Secure Handling of User Data
+- Responsive UI with Material-UI
+- MVC Architecture
 
-## Project Structure 📂
+
+Project Structure 📂
 The project follows the MVC architecture to organize code efficiently:
 
 Models 📄
+1. Location: models/
+2. Purpose: Handles data operations such as fetching from and saving to databases or APIs.
 
-Location: models/
-Purpose: Handles data operations such as fetching from and saving to databases or APIs.
 Controllers 🧩
+1. Location: controllers/
+2. Purpose: Manages business logic, processes requests, interacts with models, and returns data to views.
 
-Location: controllers/
-Purpose: Manages business logic, processes requests, interacts with models, and returns data to views.
 Views (Pages) 🎨
+1. Location: views/ or pages/ (Next.js specific)
+2. Purpose: Renders UI components and handles client-side routing.
 
-Location: views/ or pages/ (Next.js specific)
-Purpose: Renders UI components and handles client-side routing.
 Components 🛠️
-
-Location: components/
-Purpose: Contains reusable UI components.
+1. Location: components/
+2. Purpose: Contains reusable UI components.
 
 ## Getting Started
 
